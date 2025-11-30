@@ -51,11 +51,11 @@ To get a copy of the project up and running on your local machine for developmen
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Ashutosh-star-bit/your-portfolio-repo-name.git](https://github.com/Ashutosh-star-bit/your-portfolio-repo-name.git)
+    git clone https://github.com/Ashutosh-star-bit/Ashutosh-Portfolio.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-portfolio-repo-name
+    cd your-portfolio-Ashutosh-Portfolio
     ```
 3.  **Open in your browser:**
     Simply open the `index.html` file in your preferred web browser.
