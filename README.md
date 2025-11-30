@@ -2,10 +2,6 @@
 
 An interactive and modern personal portfolio website built to showcase my skills, education, and development projects. This single-page application is designed for a seamless user experience and features dynamic elements like a dark/light theme toggle, custom cursor, and animated content.
 
-## 🚀 Live Demo
-
-*(Insert a link to your live hosted portfolio here)*
-
 ## 🖼️ Project Showcase
 
 | Project Name | Technology Used | Description |
